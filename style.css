@@ -1,0 +1,52 @@
+h1{color: brown;
+    font-size: larger;
+    text-align: center;
+    line-height: normal;
+    text-decoration:underline double #ff000092;
+}
+h2{color: darkgreen;
+    font-size: large;
+    text-align: left;
+    line-height: normal;
+    text-decoration: none;
+}
+h3{color: dodgerblue;
+font-size: medium;
+text-align: left;
+line-height: normal;
+text-decoration: overline;
+}
+p{color: black;
+font-size: small;
+text-align: justify;
+line-height: 1.8;
+}
+.tarjeta{font-family: 'Courier New', Courier, monospace;
+    font-weight: 200; 
+    letter-spacing: 2px;
+    text-shadow: none;
+    text-overflow: capitalize;
+}
+.nombre{font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 2px;
+    text-transform: uppercase;
+}
+.titulo{font-family: Georgia, 'Times New Roman', Times, sans-serif;
+font-weight: normal;
+letter-spacing: 1px;
+text-shadow: 1px 1px 1px;
+text-transform: capitalize;
+}
+.descripcion{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    letter-spacing: 0.5px;
+    text-shadow: 1px 1px 1px;
+    text-transform: none;
+}
+.bloque texto{text-align: justify;
+    text-indent: 30px;
+    line-height: 1.8;
+    letter-spacing: normal;
+}
